@@ -26,7 +26,7 @@ create new center along with validating email,phone number,center_code (post map
 below if you want to get list of all filtered trainingcenter based on key value (get mapping)
 #http://localhost:8080/GetAllCenterUsingFilter?filter=key:value
 
-
+#I have attached the image to see Apis are working and responding along with full filing all the criterion mentioned in the assignment
 
 
 
