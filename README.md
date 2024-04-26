@@ -1,4 +1,5 @@
-assignment has done on Intellij idea (spring boot)
+#assignment has done on Intellij idea (spring boot)
+#you can clone and directly run in intellij idea.
 
 only Two classes are there
 
