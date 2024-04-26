@@ -23,7 +23,7 @@ create new center along with validating email,phone number,center_code (post map
 #http://localhost:8080/create_center
 
 below if you want to get list of all filtered trainingcenter based on key value (get mapping)
-##http://localhost:8080/GetAllCenterUsingFilter?filter=key:value
+#http://localhost:8080/GetAllCenterUsingFilter?filter=key:value
 
 
 
